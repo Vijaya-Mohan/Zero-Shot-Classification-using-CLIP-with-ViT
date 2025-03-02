@@ -8,15 +8,7 @@ This project explores the use of Zero-Shot Learning for fine-grained bird specie
 ### Dataset Used Using the CUB-200-2011 Dataset:
 
 The dataset used for training the model is the  CUB-200-2011 Dataset. https://www.vision.caltech.edu/datasets/cub_200_2011/ 
-- Please cite it as follows:
-
-- @techreport{WahCUB_200_2011,
-- Title = ,
-- Author = {Wah, C. and Branson, S. and Welinder, P. and Perona, P. and Belongie, S.},
-- Year = {2011}
-- Institution = {California Institute of Technology},
-- Number = {CNS-TR-2011-001}
-}
+- Please cite it as follows: @techreport{WahCUB_200_2011, Title = ,Author = {Wah, C. and Branson, S. and Welinder, P. and Perona, P. and Belongie, S.}, Year = {2011} Institution = {California Institute of Technology}, Number = {CNS-TR-2011-001} }
 
 - Contains 11,788 images across 200 bird species.
 - Includes fine-grained attributes such as feather color, beak shape, and habitat.
@@ -33,11 +25,6 @@ The dataset used for training the model is the  CUB-200-2011 Dataset. https://ww
 - **ViT-L/14**: Best performer, achieving **64% accuracy**
 - By capturing intricate features such as feather textures and beak shapes.
 - **ViT-L/14 Outperforms**: The larger ViT model demonstrated better generalization capabilities, surpassing other models in recognizing subtle and detailed bird features.
-
-### Available Models
-- **ViT-B/32**
-- **ViT-B/16**
-- **ViT-L/14 (Best performance)**
 
 ## 🌍 Why It Matters
 - **Advances AI for Wildlife Conservation**: This work can aid in species identification and ecological research, supporting biodiversity conservation efforts.
