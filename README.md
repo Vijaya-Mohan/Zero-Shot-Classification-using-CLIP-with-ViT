@@ -5,7 +5,7 @@ This project explores the use of Zero-Shot Learning for fine-grained bird specie
 
 ## Enhanced text descriptions, rather than simple class names, are employed to improve classification accuracy.
 
-### Dataset Used Using the CUB-200-2011 Dataset:
+### Dataset - CUB-200-2011 Dataset:
 
 The dataset used for training the model is the  CUB-200-2011 Dataset. https://www.vision.caltech.edu/datasets/cub_200_2011/ 
 - Please cite it as follows: @techreport{WahCUB_200_2011, Title = ,Author = {Wah, C. and Branson, S. and Welinder, P. and Perona, P. and Belongie, S.}, Year = {2011} Institution = {California Institute of Technology}, Number = {CNS-TR-2011-001} }
